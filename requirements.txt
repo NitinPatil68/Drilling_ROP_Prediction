@@ -1,7 +1,7 @@
 alabaster==0.7.16
 streamlit==1.25.0
 pandas==2.2.3  
-numpy==1.24.0  
+numpy>=1.26.0
 scikit-learn==1.5.2
 matplotlib==3.9.2  
 pickle5
